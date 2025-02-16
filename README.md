@@ -32,5 +32,5 @@ Smooth and intuitive UI/UX.
 
 Responsive design for mobile and desktop users.
 
-Tech Stacks: HTML, CSS, JavaScript
-Machine Learning: Python
+Tech Stacks: HTML, CSS, JavaScript;
+Full Deployment: https://aadya1313.github.io/MyntraHackerRamp/
